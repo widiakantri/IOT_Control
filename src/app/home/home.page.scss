@@ -1,0 +1,13 @@
+ion-card {
+  text-align: center;
+}
+
+ion-icon {
+  font-size: 4em; /* Ukuran ikon */
+}
+
+
+ion-card:hover {
+  transform: translateY(-5px); /* Efek hover */
+}
+
